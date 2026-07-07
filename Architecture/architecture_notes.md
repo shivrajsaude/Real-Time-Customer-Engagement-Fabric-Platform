@@ -1,80 +1,94 @@
 # Real-Time Customer Engagement Analytics Platform
 ---
-## Business Architecture
+# Business Architecture
+
+First, let's define the systems from which our platform receives data.
+
+## Source Systems
+
+### CRM System
+
+Contains:
+
+- Customer Profile
+- Customer Address
+- Customer Registration
+- Loyalty Status
+
 ---
 
-First, let's define what systems our platform receives data from.
-
-Source Systems
-CRM System
+### E-Commerce Website
 
 Contains:
 
-Customer Profile
-Customer Address
-Customer Registration
-Loyalty Status
-E-Commerce Website
+- Product Views
+- Search Activity
+- Add to Cart
+- Purchases
+
+---
+
+### Marketing Platform
 
 Contains:
 
-Product Views
-Search Activity
-Add to Cart
-Purchases
-Marketing Platform
+- Campaign Information
+- Campaign Clicks
+- Email Opens
+- Promotions
+
+---
+
+### Product Catalog
 
 Contains:
 
-Campaign Information
-Campaign Clicks
-Email Opens
-Promotions
-Product Catalog
+- Product Details
+- Product Category
+- Product Pricing
+
+---
+
+### Customer Support
 
 Contains:
 
-Product Details
-Product Category
-Product Pricing
-Customer Support
+- Support Tickets
+- Complaint Category
+- Resolution Status
 
-Contains:
+---
 
-Support Tickets
-Complaint Category
-Resolution Status
-Real-Time Customer Events
+### Real-Time Customer Events
 
 Contains streaming events:
 
-Page View
-Product View
-Add to Cart
-Purchase
-Login
-Logout
-Campaign Click
-Checkout
-Wishlist
+- Page View
+- Product View
+- Add to Cart
+- Purchase
+- Login
+- Logout
+- Campaign Click
+- Checkout
+- Wishlist
 
-These will later flow through Eventstream.
+These events will later be processed through **Microsoft Fabric Eventstream**.
 
 ---
 
-## Business Questions
+# Business Questions
 
-Our platform will answer questions such as:
+The platform is designed to answer the following business questions:
 
-What are customers doing right now?
-Which products are trending today?
-Which campaigns are generating the highest conversions?
-Which customers are highly engaged?
-Which customers are at risk of churn?
-Which devices and channels drive the most engagement?
-What is the current purchase conversion rate?
-Which products are frequently added to carts but not purchased?
-
+- What are customers doing right now?
+- Which products are trending today?
+- Which marketing campaigns generate the highest conversions?
+- Which customers are highly engaged?
+- Which customers are at risk of churn?
+- Which channels drive the highest engagement?
+- What is the current purchase conversion rate?
+- Which products are frequently added to carts but not purchased?
 ---
 
 ## High-Level Technical Architecture
