@@ -1,0 +1,37 @@
+---Total Events by Street 
+
+CustomerEvents
+| summarize TotalEvents = count() by Street
+| order by TotalEvents desc
+
+---Bikes Available by Neighbourhood
+
+CustomerEvents
+| summarize AvgBikes = avg(No_Bikes) by Neighbourhood
+| order by AvgBikes desc
+
+---Events Every Minute
+
+CustomerEvents
+| extend IngestedAt = ingestion_time()
+| summarize EventsPerMinute = count()
+    by bin(IngestedAt, 1m)
+
+
+------------------------------------------
+
+Although the source is bicycle data, for my GitHub repository we'll adapt the examples to my project theme:
+
+CustomerEvents
+| summarize TotalEvents = count() by customer_id
+
+CustomerEvents
+| where event_type == "Purchase"
+
+CustomerEvents
+| summarize EventsPerMinute = count()
+by bin(timestamp,1m)
+
+These are easier to relate with "Real-Time Customer Engagement Analytics Platform".
+
+------------------------------------------
