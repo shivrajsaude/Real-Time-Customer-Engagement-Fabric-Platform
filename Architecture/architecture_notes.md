@@ -91,52 +91,68 @@ The platform is designed to answer the following business questions:
 - Which products are frequently added to carts but not purchased?
 ---
 
-## High-Level Technical Architecture
+# High-Level Technical Architecture
 
-Here's the logical flow :
-                    Batch Sources
-      CRM | Product | Campaign | Support
-                     │
-                     ▼
-              Dataflow Gen2
-                     │
-                     ▼
-           Fabric Lakehouse (Bronze)
-                     │
-             Fabric Notebook (PySpark)
-                     │
-                     ▼
-           Fabric Lakehouse (Silver)
-                     │
-              SQL Transformation
-                     │
-                     ▼
-             Fabric Warehouse (Gold)
-                     │
-              Direct Lake Semantic Model
-                     │
-                     ▼
-                 Power BI Dashboard
+The platform combines **batch data processing** and **near real-time analytics** within Microsoft Fabric.
 
+## Batch Data Processing
 
-──────────────────────────────────────────
-
-              Real-Time Customer Events
-                     │
-                     ▼
-                Eventstream
-                     │
-          ┌──────────┴──────────┐
-          ▼                     ▼
-     KQL Database          Lakehouse
-          │
-          ▼
-   Real-Time Analytics
-          │
-          ▼
-      Power BI Dashboard
+```text
+CRM System
+      │
+Product Catalog
+      │
+Marketing Campaigns
+      │
+Customer Support
+      │
+      ▼
+Dataflow Gen2
+      │
+      ▼
+Lakehouse (Bronze)
+      │
+      ▼
+Fabric Notebook (PySpark)
+      │
+      ▼
+Lakehouse (Silver)
+      │
+      ▼
+SQL Transformation
+      │
+      ▼
+Fabric Warehouse (Gold)
+      │
+      ▼
+Direct Lake Semantic Model
+      │
+      ▼
+Power BI Dashboard
+```
 
 ---
+
+## Real-Time Data Processing
+
+```text
+Customer Website Events
+(Page View, Add to Cart, Purchase, Login)
+
+                │
+                ▼
+          Eventstream
+           ┌─────────────┐
+           │             │
+           ▼             ▼
+    KQL Database    Lakehouse
+           │
+           ▼
+ Real-Time Analytics
+           │
+           ▼
+    Power BI Dashboard
+```
 
 ## Why this architecture?
 
