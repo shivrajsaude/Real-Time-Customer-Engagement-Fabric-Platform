@@ -191,3 +191,15 @@ Our workspace will contain:
 | Power BI Report | Customer Engagement Dashboard       |
 
 ---
+
+# Author
+
+**Shivraj Saude**
+
+Azure Data Engineer
+
+Microsoft Certified: Fabric Data Engineer Associate (DP-700)
+
+Databricks Certified Data Engineer Associate
+
+---
