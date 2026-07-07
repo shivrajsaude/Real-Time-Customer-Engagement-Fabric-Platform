@@ -1,0 +1,51 @@
+product_id,product_name,category,brand,price,stock_quantity
+PROD0001,PrimeKart Smartphone,Electronics,HomeEase,61420.78,95
+PROD0002,MaxValue Laptop,Electronics,MaxValue,77108.66,377
+PROD0003,UrbanEdge Headphones,Electronics,TechNova,77187.25,65
+PROD0004,MaxValue Smartwatch,Electronics,NovaMart,74331.31,304
+PROD0005,GlowCare Tablet,Electronics,GlowCare,75334.21,111
+PROD0006,UrbanEdge Bluetooth Speaker,Electronics,MaxValue,55340.97,331
+PROD0007,StyleHub T-Shirt,Fashion,UrbanEdge,55865.28,164
+PROD0008,MaxValue Jeans,Fashion,UrbanEdge,63758.31,299
+PROD0009,NovaMart Sneakers,Fashion,FitPro,42758.8,348
+PROD0010,FitPro Jacket,Fashion,UrbanEdge,40624.07,184
+PROD0011,NovaMart Kurta,Fashion,GlowCare,65838.77,64
+PROD0012,GlowCare Backpack,Fashion,FitPro,50955.13,434
+PROD0013,PrimeKart Coffee Maker,Home,TechNova,35007.33,385
+PROD0014,DailyPlus Mixer Grinder,Home,HomeEase,49387.21,480
+PROD0015,DailyPlus Office Chair,Home,PrimeKart,37349.44,432
+PROD0016,MaxValue Bedsheet,Home,HomeEase,25986.68,135
+PROD0017,UrbanEdge LED Lamp,Home,HomeEase,70565.01,134
+PROD0018,PrimeKart Water Bottle,Home,MaxValue,48942.44,204
+PROD0019,FitPro Face Wash,Beauty,NovaMart,39695.23,176
+PROD0020,TechNova Perfume,Beauty,PrimeKart,17204.95,418
+PROD0021,HomeEase Moisturizer,Beauty,FitPro,22587.78,315
+PROD0022,HomeEase Hair Dryer,Beauty,DailyPlus,1108.04,495
+PROD0023,StyleHub Sunscreen,Beauty,UrbanEdge,19535.08,218
+PROD0024,PrimeKart Shampoo,Beauty,DailyPlus,60724.72,363
+PROD0025,PrimeKart Yoga Mat,Sports,PrimeKart,36018.51,18
+PROD0026,UrbanEdge Running Shoes,Sports,HomeEase,17960.23,364
+PROD0027,StyleHub Dumbbell Set,Sports,HomeEase,53216.61,198
+PROD0028,PrimeKart Cricket Bat,Sports,DailyPlus,42613.48,227
+PROD0029,DailyPlus Fitness Band,Sports,FitPro,28338.3,242
+PROD0030,HomeEase Gym Bag,Sports,HomeEase,20335.87,71
+PROD0031,UrbanEdge Sneakers,Fashion,DailyPlus,76083.94,363
+PROD0032,StyleHub Jeans,Fashion,PrimeKart,22336.02,311
+PROD0033,HomeEase Fitness Band,Sports,UrbanEdge,66659.48,161
+PROD0034,TechNova Sneakers,Fashion,HomeEase,1426.62,283
+PROD0035,NovaMart Sneakers,Fashion,NovaMart,44401.71,367
+PROD0036,PrimeKart Backpack,Fashion,UrbanEdge,69854.76,303
+PROD0037,PrimeKart Bedsheet,Home,PrimeKart,27453.26,36
+PROD0038,UrbanEdge Bedsheet,Home,UrbanEdge,32235.38,47
+PROD0039,NovaMart Gym Bag,Sports,TechNova,12190.05,298
+PROD0040,StyleHub Coffee Maker,Home,UrbanEdge,44777.42,223
+PROD0041,MaxValue Fitness Band,Sports,StyleHub,62121.78,204
+PROD0042,HomeEase Hair Dryer,Beauty,MaxValue,79204.49,166
+PROD0043,NovaMart Fitness Band,Sports,MaxValue,76819.67,60
+PROD0044,StyleHub Backpack,Fashion,HomeEase,52935.12,90
+PROD0045,DailyPlus Jeans,Fashion,UrbanEdge,12774.65,219
+PROD0046,MaxValue Shampoo,Beauty,PrimeKart,23512.37,128
+PROD0047,HomeEase Water Bottle,Home,PrimeKart,5972.03,129
+PROD0048,MaxValue Water Bottle,Home,StyleHub,34182.58,288
+PROD0049,TechNova Backpack,Fashion,HomeEase,66181.5,46
+PROD0050,HomeEase Laptop,Electronics,MaxValue,59990.93,301

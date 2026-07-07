@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,gender,email,phone,city,state,country,registration_date,loyalty_tier
+CUST0001,Rahul,Reddy,Female,rahul.reddy1@example.com,9362950628,Bengaluru,Karnataka,India,2025-01-29,Bronze
+CUST0002,Amit,Reddy,Female,amit.reddy2@example.com,9134126396,Kolkata,West Bengal,India,2023-03-31,Bronze
+CUST0003,Reyansh,Kumar,Male,reyansh.kumar3@example.com,9702632297,Kolkata,West Bengal,India,2024-09-08,Bronze
+CUST0004,Rahul,Das,Female,rahul.das4@example.com,9732719211,Noida,Uttar Pradesh,India,2023-08-14,Bronze
+CUST0005,Rohan,Sharma,Female,rohan.sharma5@example.com,9465341213,Pune,Maharashtra,India,2024-12-15,Bronze
+CUST0006,Reyansh,Mehta,Female,reyansh.mehta6@example.com,9203848421,Mumbai,Maharashtra,India,2023-04-05,Bronze
+CUST0007,Diya,Mishra,Male,diya.mishra7@example.com,9883543540,Chennai,Tamil Nadu,India,2025-04-06,Silver
+CUST0008,Vihaan,Rao,Female,vihaan.rao8@example.com,9990566476,Mumbai,Maharashtra,India,2024-07-19,Silver
+CUST0009,Meera,Chopra,Male,meera.chopra9@example.com,9149203558,Ahmedabad,Gujarat,India,2023-07-16,Silver
+CUST0010,Sneha,Joshi,Male,sneha.joshi10@example.com,9208449460,Mumbai,Maharashtra,India,2025-05-25,Bronze
+CUST0011,Saanvi,Chopra,Female,saanvi.chopra11@example.com,9324956459,Pune,Maharashtra,India,2024-01-15,Silver
+CUST0012,Priya,Patel,Male,priya.patel12@example.com,9673528321,Ahmedabad,Gujarat,India,2024-10-12,Gold
+CUST0013,Sai,Kulkarni,Male,sai.kulkarni13@example.com,9835098955,Noida,Uttar Pradesh,India,2023-10-04,Bronze
+CUST0014,Sneha,Verma,Male,sneha.verma14@example.com,9964411347,Hyderabad,Telangana,India,2025-04-21,Bronze
+CUST0015,Krishna,Patel,Female,krishna.patel15@example.com,9328306011,Hyderabad,Telangana,India,2024-08-03,Silver
+CUST0016,Aadhya,Kulkarni,Male,aadhya.kulkarni16@example.com,9364814270,Pune,Maharashtra,India,2023-09-29,Gold
+CUST0017,Avni,Gupta,Female,avni.gupta17@example.com,9488690725,Ahmedabad,Gujarat,India,2024-03-14,Bronze
+CUST0018,Arjun,Bose,Male,arjun.bose18@example.com,9217734861,Gurugram,Haryana,India,2023-04-04,Bronze
+CUST0019,Sai,Desai,Female,sai.desai19@example.com,9509760584,Ahmedabad,Gujarat,India,2023-03-07,Silver
+CUST0020,Saanvi,Bose,Male,saanvi.bose20@example.com,9830448745,Chennai,Tamil Nadu,India,2024-07-20,Gold
+CUST0021,Neha,Das,Female,neha.das21@example.com,9219778234,Chennai,Tamil Nadu,India,2025-02-26,Bronze
+CUST0022,Sai,Kulkarni,Female,sai.kulkarni22@example.com,9637500247,Bengaluru,Karnataka,India,2025-01-09,Gold
+CUST0023,Anika,Reddy,Male,anika.reddy23@example.com,9264109919,Chennai,Tamil Nadu,India,2025-05-11,Bronze
+CUST0024,Sai,Das,Female,sai.das24@example.com,9624636385,Kolkata,West Bengal,India,2023-01-01,Bronze
+CUST0025,Nikhil,Chopra,Male,nikhil.chopra25@example.com,9358633898,Chennai,Tamil Nadu,India,2023-09-03,Gold
+CUST0026,Aditya,Patel,Male,aditya.patel26@example.com,9916690353,Gurugram,Haryana,India,2025-04-15,Silver
+CUST0027,Arjun,Nair,Male,arjun.nair27@example.com,9384602384,Gurugram,Haryana,India,2024-07-16,Silver
+CUST0028,Riya,Desai,Male,riya.desai28@example.com,9865523129,Hyderabad,Telangana,India,2024-07-06,Bronze
+CUST0029,Neha,Chopra,Female,neha.chopra29@example.com,9229927269,Gurugram,Haryana,India,2024-06-13,Bronze
+CUST0030,Aditya,Mehta,Male,aditya.mehta30@example.com,9731832764,Bengaluru,Karnataka,India,2024-08-25,Bronze
+CUST0031,Aditya,Verma,Male,aditya.verma31@example.com,9454794895,Hyderabad,Telangana,India,2023-03-11,Bronze
+CUST0032,Ayaan,Gupta,Male,ayaan.gupta32@example.com,9876693898,Gurugram,Haryana,India,2023-08-08,Platinum
+CUST0033,Kiara,Agarwal,Female,kiara.agarwal33@example.com,9967043303,Gurugram,Haryana,India,2023-09-06,Silver
+CUST0034,Vihaan,Reddy,Female,vihaan.reddy34@example.com,9541417711,Noida,Uttar Pradesh,India,2023-12-29,Silver
+CUST0035,Amit,Verma,Female,amit.verma35@example.com,9881913386,Mumbai,Maharashtra,India,2023-03-04,Bronze
+CUST0036,Rohan,Reddy,Male,rohan.reddy36@example.com,9675832441,Hyderabad,Telangana,India,2023-07-16,Silver
+CUST0037,Myra,Iyer,Male,myra.iyer37@example.com,9180943908,Chennai,Tamil Nadu,India,2024-04-18,Silver
+CUST0038,Rohan,Das,Male,rohan.das38@example.com,9200140141,Mumbai,Maharashtra,India,2023-02-21,Platinum
+CUST0039,Rohan,Kumar,Female,rohan.kumar39@example.com,9616854671,Pune,Maharashtra,India,2024-02-21,Bronze
+CUST0040,Aadhya,Verma,Male,aadhya.verma40@example.com,9519212169,Pune,Maharashtra,India,2024-01-24,Bronze
+CUST0041,Karan,Kulkarni,Female,karan.kulkarni41@example.com,9266211829,Chennai,Tamil Nadu,India,2024-03-09,Bronze
+CUST0042,Reyansh,Verma,Male,reyansh.verma42@example.com,9903132646,Ahmedabad,Gujarat,India,2025-01-23,Bronze
+CUST0043,Vivaan,Agarwal,Male,vivaan.agarwal43@example.com,9161073976,Gurugram,Haryana,India,2024-05-29,Platinum
+CUST0044,Aditya,Iyer,Male,aditya.iyer44@example.com,9825003955,Mumbai,Maharashtra,India,2024-09-01,Gold
+CUST0045,Aadhya,Reddy,Male,aadhya.reddy45@example.com,9765055833,Ahmedabad,Gujarat,India,2023-09-10,Bronze
+CUST0046,Neha,Agarwal,Female,neha.agarwal46@example.com,9379995032,Ahmedabad,Gujarat,India,2024-06-19,Bronze
+CUST0047,Priya,Mehta,Female,priya.mehta47@example.com,9240529481,Hyderabad,Telangana,India,2023-09-29,Silver
+CUST0048,Ishaan,Kulkarni,Male,ishaan.kulkarni48@example.com,9110002396,Delhi,Delhi,India,2025-02-08,Silver
+CUST0049,Kiara,Reddy,Male,kiara.reddy49@example.com,9643189555,Mumbai,Maharashtra,India,2024-07-04,Bronze
+CUST0050,Nikhil,Chopra,Male,nikhil.chopra50@example.com,9496776692,Mumbai,Maharashtra,India,2025-06-19,Bronze
+CUST0051,Saanvi,Das,Male,saanvi.das51@example.com,9817112652,Chennai,Tamil Nadu,India,2024-09-18,Gold
+CUST0052,Ishaan,Reddy,Male,ishaan.reddy52@example.com,9214929002,Pune,Maharashtra,India,2023-09-28,Gold
+CUST0053,Arjun,Gupta,Male,arjun.gupta53@example.com,9870530217,Chennai,Tamil Nadu,India,2024-09-11,Bronze
+CUST0054,Neha,Gupta,Female,neha.gupta54@example.com,9154544899,Kolkata,West Bengal,India,2024-05-15,Bronze
+CUST0055,Myra,Gupta,Female,myra.gupta55@example.com,9927982963,Bengaluru,Karnataka,India,2023-01-04,Bronze
+CUST0056,Krishna,Iyer,Female,krishna.iyer56@example.com,9702269164,Gurugram,Haryana,India,2024-07-18,Bronze
+CUST0057,Aditya,Nair,Female,aditya.nair57@example.com,9725464884,Kolkata,West Bengal,India,2023-02-06,Silver
+CUST0058,Myra,Nair,Female,myra.nair58@example.com,9954829815,Bengaluru,Karnataka,India,2023-11-12,Platinum
+CUST0059,Vivaan,Chopra,Male,vivaan.chopra59@example.com,9816114302,Hyderabad,Telangana,India,2024-11-29,Bronze
+CUST0060,Sneha,Das,Male,sneha.das60@example.com,9354194771,Noida,Uttar Pradesh,India,2024-09-27,Gold
+CUST0061,Karan,Iyer,Male,karan.iyer61@example.com,9890880074,Noida,Uttar Pradesh,India,2023-01-26,Platinum
+CUST0062,Karan,Desai,Male,karan.desai62@example.com,9945436943,Hyderabad,Telangana,India,2023-10-01,Gold
+CUST0063,Aadhya,Verma,Male,aadhya.verma63@example.com,9976803188,Gurugram,Haryana,India,2023-08-16,Platinum
+CUST0064,Diya,Joshi,Male,diya.joshi64@example.com,9808705238,Hyderabad,Telangana,India,2023-08-17,Bronze
+CUST0065,Ananya,Gupta,Female,ananya.gupta65@example.com,9477040284,Mumbai,Maharashtra,India,2025-03-02,Silver
+CUST0066,Aadhya,Das,Male,aadhya.das66@example.com,9380477683,Delhi,Delhi,India,2023-01-29,Bronze
+CUST0067,Krishna,Verma,Female,krishna.verma67@example.com,9471178705,Mumbai,Maharashtra,India,2024-09-02,Gold
+CUST0068,Ananya,Desai,Male,ananya.desai68@example.com,9513600440,Ahmedabad,Gujarat,India,2024-06-07,Gold
+CUST0069,Reyansh,Gupta,Female,reyansh.gupta69@example.com,9101815992,Bengaluru,Karnataka,India,2024-12-26,Silver
+CUST0070,Karan,Das,Female,karan.das70@example.com,9175133802,Hyderabad,Telangana,India,2024-01-08,Platinum
+CUST0071,Nikhil,Mehta,Male,nikhil.mehta71@example.com,9872830248,Ahmedabad,Gujarat,India,2023-11-18,Platinum
+CUST0072,Anika,Joshi,Female,anika.joshi72@example.com,9848621833,Noida,Uttar Pradesh,India,2023-12-01,Bronze
+CUST0073,Arjun,Singh,Female,arjun.singh73@example.com,9827264603,Noida,Uttar Pradesh,India,2024-11-11,Gold
+CUST0074,Sai,Mishra,Female,sai.mishra74@example.com,9688343096,Ahmedabad,Gujarat,India,2023-11-05,Gold
+CUST0075,Ishaan,Joshi,Female,ishaan.joshi75@example.com,9599277266,Hyderabad,Telangana,India,2024-03-16,Silver
+CUST0076,Neha,Singh,Male,neha.singh76@example.com,9807435606,Kolkata,West Bengal,India,2024-04-29,Bronze
+CUST0077,Anika,Mishra,Male,anika.mishra77@example.com,9822408848,Delhi,Delhi,India,2023-04-06,Bronze
+CUST0078,Karan,Singh,Male,karan.singh78@example.com,9362897676,Pune,Maharashtra,India,2023-01-26,Platinum
+CUST0079,Riya,Patel,Male,riya.patel79@example.com,9871318048,Gurugram,Haryana,India,2024-02-29,Silver
+CUST0080,Ira,Rao,Male,ira.rao80@example.com,9906341966,Hyderabad,Telangana,India,2023-06-01,Gold
+CUST0081,Meera,Reddy,Male,meera.reddy81@example.com,9963406382,Noida,Uttar Pradesh,India,2023-08-13,Platinum
+CUST0082,Anika,Kulkarni,Male,anika.kulkarni82@example.com,9230307805,Bengaluru,Karnataka,India,2024-07-24,Silver
+CUST0083,Karan,Kulkarni,Female,karan.kulkarni83@example.com,9910943524,Kolkata,West Bengal,India,2024-07-26,Gold
+CUST0084,Riya,Bose,Female,riya.bose84@example.com,9270894498,Noida,Uttar Pradesh,India,2025-04-30,Gold
+CUST0085,Ira,Kulkarni,Male,ira.kulkarni85@example.com,9784683755,Chennai,Tamil Nadu,India,2025-02-08,Bronze
+CUST0086,Sneha,Bose,Male,sneha.bose86@example.com,9394846763,Gurugram,Haryana,India,2024-10-03,Silver
+CUST0087,Priya,Joshi,Female,priya.joshi87@example.com,9443285529,Hyderabad,Telangana,India,2023-10-06,Gold
+CUST0088,Aditya,Nair,Female,aditya.nair88@example.com,9845122940,Pune,Maharashtra,India,2023-08-25,Bronze
+CUST0089,Reyansh,Patel,Female,reyansh.patel89@example.com,9682624278,Noida,Uttar Pradesh,India,2024-02-22,Silver
+CUST0090,Vivaan,Singh,Male,vivaan.singh90@example.com,9922050912,Noida,Uttar Pradesh,India,2024-02-03,Silver
+CUST0091,Ira,Sharma,Female,ira.sharma91@example.com,9997356828,Delhi,Delhi,India,2023-11-02,Silver
+CUST0092,Amit,Das,Female,amit.das92@example.com,9335602191,Ahmedabad,Gujarat,India,2023-08-14,Bronze
+CUST0093,Ira,Sharma,Female,ira.sharma93@example.com,9877583839,Noida,Uttar Pradesh,India,2023-12-11,Bronze
+CUST0094,Saanvi,Nair,Male,saanvi.nair94@example.com,9523076025,Ahmedabad,Gujarat,India,2024-06-30,Silver
+CUST0095,Neha,Sharma,Female,neha.sharma95@example.com,9245706210,Mumbai,Maharashtra,India,2024-10-20,Gold
+CUST0096,Sai,Verma,Female,sai.verma96@example.com,9327268503,Chennai,Tamil Nadu,India,2024-01-24,Silver
+CUST0097,Ananya,Rao,Female,ananya.rao97@example.com,9370874491,Chennai,Tamil Nadu,India,2025-02-09,Gold
+CUST0098,Ira,Sharma,Female,ira.sharma98@example.com,9340756713,Kolkata,West Bengal,India,2023-02-23,Silver
+CUST0099,Sneha,Verma,Male,sneha.verma99@example.com,9121882877,Bengaluru,Karnataka,India,2023-09-11,Silver
+CUST0100,Ayaan,Nair,Male,ayaan.nair100@example.com,9705557720,Gurugram,Haryana,India,2024-11-16,Platinum
